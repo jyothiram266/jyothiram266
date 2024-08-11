@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyothiram266&label=Profile%20views&color=0e75b6&style=flat" alt="jyothiram266" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyothiram266" alt="jyothiram266" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=jyothiram266&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://twitter.com/jyothiram266" target="blank"><img src="https://img.shields.io/twitter/follow/jyothiram266?logo=twitter&style=for-the-badge" alt="jyothiram266" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jyothiram261" target="blank"><img src="https://img.shields.io/twitter/follow/jyothiram266?logo=twitter&style=for-the-badge" alt="jyothiram266" /></a> </p>
 
 - 🌱 I’m currently learning **DevOps**
 
