@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jyothiram266" target="blank"><img src="https://img.shields.io/twitter/follow/jyothiram266?logo=twitter&style=for-the-badge" alt="jyothiram266" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Python,c++,javscript**
 
